@@ -1,6 +1,8 @@
 {
-	"code": "nb-NO",
-	"name": "Norsk",
-	"legal": {},
-	"translations": {}
+  "code": "nb-NO",
+  "name": "Norsk",
+  "legal": {},
+  "translations": {
+    "Materials": "Ressurser"
+  }
 }
